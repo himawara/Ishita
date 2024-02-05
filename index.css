@@ -1,0 +1,67 @@
+.container2
+{
+    display:flex;
+    padding: 0px;
+}
+.container{
+display: flex;
+}
+.container img{
+    width: auto;
+}
+.sidebar li
+{   
+    list-style: none;;
+    padding: 20px;
+}
+a:link
+{
+    color: white;
+}
+a:visited
+{
+    color: white;
+}
+a:hover
+{
+color: aqua;
+}
+.sidebar
+{
+    background-color: aqua;
+    width: 10vw;
+    height:100vh;
+    text-align: center;
+    font-family:cursive;
+    padding: 0px;
+    margin: 0px;
+    background-image: url("background.avif");
+   
+}
+.main img
+{   
+    float: left;
+    display: flex;
+    margin-left:10vw;
+    margin-right: 90vw;
+}
+.main
+{
+    width: 90vw;
+    color: black;
+    margin: 10px;
+
+}
+.main li
+{
+    padding: 5px;
+    font-family: cursive;
+}
+.badacontainer
+{
+    display: block;
+    margin-right: 30px;
+}
+.badacontainer img{
+    margin-right: 20vw;
+}
